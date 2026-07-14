@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/arshiasukheja/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1089-duplicate-zeros](https://github.com/arshiasukheja/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1089-duplicate-zeros](https://github.com/arshiasukheja/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
