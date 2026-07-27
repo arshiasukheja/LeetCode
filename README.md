@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/arshiasukheja/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/arshiasukheja/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshiasukheja/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/arshiasukheja/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
