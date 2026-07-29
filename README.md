@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arshiasukheja/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arshiasukheja/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arshiasukheja/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/arshiasukheja/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arshiasukheja/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
