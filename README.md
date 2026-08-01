@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arshiasukheja/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arshiasukheja/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arshiasukheja/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/arshiasukheja/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/arshiasukheja/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/arshiasukheja/LeetCode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arshiasukheja/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
