@@ -1,7 +1,17 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int idx= haystack.indexOf(needle);
-        return idx;
+        
+        int len=needle.length();
+
+        if (len==0 || haystack.length()==0) return -1;
+        if (needle.equals(haystack)) return 0;
+        for (int i=0; i<=haystack.length()-len; i++){
+            if (haystack.substring(i,i+len).equals(needle)){
+                return i;
+            }
+        }
+
+        return -1;
         
     }
 }
