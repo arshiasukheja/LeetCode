@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arshiasukheja/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arshiasukheja/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/arshiasukheja/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/arshiasukheja/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/arshiasukheja/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/arshiasukheja/LeetCode/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arshiasukheja/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/arshiasukheja/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
